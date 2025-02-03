@@ -1,0 +1,50 @@
+ID,Description
+1,The application shall have a downtime of at most 10 minutes per year.
+2,"Usage of the search feature DESC: The different search options should be evident, simple and easy to understand."
+3,There is a link to a Twitter settings menu.
+4,Each page shall contain a similar format with action items in one location and navigation buttons in a different location.
+5,The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.
+6,Select Spanish as preferred language Given the administrator wants to select a preferred language When the administrator selects Spanish as a new language Then the web-portal will show all text in Spanish
+7,"In the settings menu for Twitter there is an option to delete the saved username in combination with the password, regarding Twitter."
+8,The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.
+9,"Security The connection between the Web API and the programs will use HTTPS, for security."
+10,A search described in requirements UCAR501 and UCAR502 results in a displayed set of employees that match the search input.
+11,The information and the search methods of the Studenthandbook-app are restricted depending on file format of the handbook-information.
+12,System shall allow users to update their billing and contact information via the My Account section of the website.
+13,Usage of the result in the list view DESC: The results displayed in the list view should be user friendly and easy to understand. Selecting an element in the result list should only take one click.
+14,By clicking on a topic the full text regarding that topic is shown.
+15,From the here the user can either proceed to call a rep for an order or proceed to the online checkout process
+16,"The main menu contains a launcher to the Encyclopedia-app, only if the Dutch language is selected.3.1.7"
+17,PME Subsystem shall allow for a product to exist in more than one submenu
+18,The system shall display Events in a vertical table by time.
+19,The product shall be available for use 24 hours per day 365 days per year
+20,The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.
+21,Retrieve password Given the restaurant owner wants to log in And has lost the password When the restaurant owner enters his/her email address in the â€œRetrieve passwordâ€ form And submits the form Then the restaurant owner should receive an email containing the password
+22,The administrator can remove buildings.
+23,The RFS system should be able to easily interface with the BDW environment in order to load the data.  7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year. The data will be as of October month-end.  Test files (7) shall be loaded up to 5 times throughout the year from the BDW.
+24,Website shall allow customers to browse movies by categories entered in by izogn administrator.
+25,The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.
+26,The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.
+27,The product must support Mozilla Firefox 1.0 and above.
+28,The default language of insApption is English
+29,Delete restaurant information Given the administrator is logged in And information about a restaurant exists When the administrator deletes the information Then the information about the restaurant should be deleted
+30,The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product.
+31,"In this case, if the item the user wants is available for exchange, the user can request the exchange of items that he/she has with the item he/she wants."
+32,The product should be able to be used by 90% of novice users on the Internet.
+33,The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.
+34,"The application will be highly extensible in terms of adding course and calendar details or views. However, the application in general has low extensibility."
+35,The product shall interface with the ChoiceParts system once per day at approximately 1
+36,"With regards to the intended number of users in the Amsterdam pilot, and the projected load scenarios, the intention is for the system to be able to serve 20.000 queries / day (in large part during the 4 peak traffic hours)."
+37,Accepted input for price and destination search DESC: Integers should be accepted as input when a user searches by price or destination. If the system receives an invalid input the user should be informed and prompted to insert an accepted input.
+38,The application itself will only have minimal logic and so there should be little to no issues with the computation required by the phone itself.
+39,The system shall be able to call the seller or buyer to schedule an appointment
+40,Mobile application - Search by price DESC: A user should be able to input a maximum and a minimum price range. The result is displayed in a list view by default.
+41,The Twitter â€tweetâ€ interface should be according to the Twitter Guidelines.
+42,The product shall provide players no access to information that might reveal the identity of another player
+43,The audit report shall include the number of available recycled parts from the original search results.
+44,Users should be able to access their streaming movies in under 2 clicks after logging into the website.
+45,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.
+46,No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.
+47,Movies shall be encoded for 56k and 256k streams.
+48,The website shall be available for use 24 hours per day 365 days per year.
+49,"Mobile application - Navigation to restaurant DESC: A user should be able to select a pin on a map or an element on a list. When a selection is made, the location of the restaurant should be sent to the mobile phoneâ€™s GPS-navigation program. The user should then be navigated to the destination. When the destination is reached, a user should be able to go back to the search page on the mobile application."
